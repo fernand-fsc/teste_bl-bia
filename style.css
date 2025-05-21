@@ -6,7 +6,7 @@ body {
   justify-content: center;
   align-items: center;
   height: 100vh;
-  background: linear-gradient(135deg, #eac066, #252304);
+  background: linear-gradient(135deg, #eac066, hwb(59 1% 43% / 0.808));
   color: #fff;
   text-align: center;
   flex-direction: column;
